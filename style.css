@@ -1,0 +1,76 @@
+html {
+    background: orange;
+}
+
+body {
+    background: orange;
+    color: #ffffff;
+    font-family: "Helvetica Neue", "Helvetica", sans-serif;
+    padding: 0;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav a {
+    display: inline-block;
+    padding: 0 40px 0 40px;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover {
+    background-color: white;
+    color: black;
+    padding: 0 40px 0 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.nav a.active {
+    background-color: orange;
+    color: white;
+}
+
+a {
+    color: #0083e8;
+}
+
+b, strong {
+    font-weight: 500;
+}
+
+samp {
+    display: none;
+}
+
+img {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 5px solid rgba(0, 0, 0, 0.12);
+    border-radius: 2px;
+    display: block;
+    margin: 1.3em auto;
+}
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
+marquee {
+    color: black;
+}
