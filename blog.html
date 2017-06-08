@@ -1,36 +1,54 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="./style.css">
         <link rel="shortcut icon" href="./favicon.ico">
+        <style>
+            div#expand
+            {
+                display:block;
+            }
+        </style>
+        <script>
+            function show()
+            {
+                if(document.getElementById('expand').style.display == 'none')
+                    document.getElementById('expand').style.display = 'block';
+                else
+                    document.getElementById('expand').style.display = 'none';
+            }
+        </script>
         <title>Blog</title>
     </head>
     <body>
     <div class="nav">
         <a href="./index.html">HOME</a>
         <a href="./projects.html">PROJECTS</a>
-        <a href="./achievements.html">ACHIEVEMENTS</a>
+        <a href="./academics.html">ACADEMICS</a>
         <a href="./contact.html">CONTACT</a>
         <a href="./blog.html" class="active">BLOG</a>
     </div>
-    <h1 align="center">WWDC17</h1>
-    <p>Apple announced a lot of things in the special event this year in SJCC. <u>HomePod</u> was the highlight of the event, which will compete with Google Home and Amazon's Alexa.<br>
+        <h1>WWDC17</h1>
+        <a href="javascript:;" onclick=show()>Show/Hide Blog</a>	
+        <div id="expand">
+        <p>Apple announced a lot of things in the special event this year in SJCC. <u>HomePod</u> was the highlight of the event, which will compete with Google Home and Amazon's Alexa.<br>
     <ol>
-        <li>iOS 11</li>
+        <li><b><u>iOS 11</u></b></li>
         <p>Includes many new features and faster, optimized performance.</p>
-        <li>macOS High Sierra</li>
+        <li><b><u>macOS High Sierra</u></b></li>
         <p>Highly anticipated release. Coming this fall.</p>
-        <li>HomePod</li>
+        <li><b><u>HomePod</u></b></li>
         <p>A breakthrough home speaker delivering amazing sound and providing incredible intelligence.</p>
-        <li>iPad Pro</li>
+        <li><b><u>iPad Pro</u></b></li>
         <p>The 10.5 inch device looks even better with its A10X Fusion chip.</p>
-        <li>watchOS 4</li>
+        <li><b><u>watchOS 4</u></b></li>
         <p>Looks more intuitive and intelligent, with smarter activity and workout features and new ways to enhance everyday functions.</p>
-        <li>iMac Pro</li>
+        <li><b><u>iMac Pro</u></b></li>
         <p>iMac reinvented and branded as 'the most powerful Mac ever'.</p>
     </ol><br>
-        As a loyal shareholder (and fanboy) of Apple, I believe that the sales will increase by 25-30% and with the release of iPhone 7S on the way, it would be wise to expect a rise of 10-12% in Apple's stock.<br>
-    <br>- KARTIK PINGALE, PUNE
-    </p>
+        As someone who has followed Apple for quite a while, I believe that the sales will increase by 25-30% and with the release of iPhone 7S on the way, it would be wise to expect a rise of 10-12% in Apple's stock.<br>
+    <br><b><u>- KARTIK PINGALE, PUNE</u></b></p>
+        </div>    
     </body>
 </html>
