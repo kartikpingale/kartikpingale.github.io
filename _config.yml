@@ -1,8 +1,6 @@
 title: Kartik Pingale
 description: Personal site to showcase projects
-show_downloads: true
+logo: /assets/img/headshot.jpeg
+show_downloads: false
 theme: jekyll-theme-minimal
 google_analytics: G-L15C5JHKV8
-
-
-#logo: /assets/img/headshot_circle.png
