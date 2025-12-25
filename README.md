@@ -1,17 +1,22 @@
-# Data Scientist
+# MS in Finance Candidate @ Simon Business School
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Financial Research and Analysis, Valuations, Portfolio Management
+#### Tools and Technologies: Bloomberg Terminal, Capital IQ, FactSet, PitchBook, Python, SQL
+#### Soft Skills: Problem Solving, Time Management, Collaboration, Attention to Detail, Negotiation
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Finance	| University of Rochester (_2025 - 2026_)	 			        		
+- B.Eng., Information Technology | University of Pune (_2017 - 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Associate, Portfolio Management @ Simon Student Venture Fund (_October 2025 - Present_)**
+- x
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Associate, Private Markets @ Acuity (_May 2024 - April 2025_)**
+- x
+
+**Senior Analyst, Research and Investment Services @ TresVista (_July 2023 - March 2024_)**
+- x
+
+**Analyst, Research and Investment Services @ TresVista (_March 2022 - June 2023_)**
+- x
