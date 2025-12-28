@@ -21,18 +21,28 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" width="200" height="200" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
+        Select Projects:
         <ul>
-          <li><a href="drive.google.com">ESG Investment Framework</a></li>
+          <li><a href="drive.google.com" target="_blank" rel="noopener noreferrer">ESG Investment Framework</a></li>
+          <li><a href="drive.google.com" target="_blank" rel="noopener noreferrer">Whitepaper</a></li>
+          <li><a href="drive.google.com" target="_blank" rel="noopener noreferrer">Stock Pitch</a></li>
         </ul>
         
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view">Connect with me!
+        <br>
+        <ul>
+          <li><a href="https://www.linkedin.com/in/kartikpingale/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          <li><a href="mailto:kpingale@Simon.rochester.edu">Email</a></li>
+          <li><a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+        </ul>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -52,6 +62,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <p>&copy; 2025 Kartik Pingale. All rights reserved.</p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
