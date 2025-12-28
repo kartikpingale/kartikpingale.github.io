@@ -4,6 +4,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1920px;
+  width:960px;
   margin:0 auto;
+}
+
+section {
+  width: 50%;
+  background-color: powderblue;
 }
