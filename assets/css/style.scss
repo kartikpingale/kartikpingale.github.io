@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 img {
   max-width:100%;
-  margin: 10px;
+  margin-bottom: 30px;
 }
 
 header {
@@ -42,4 +42,8 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+h1.site_title {
+  color: #333333;
 }
