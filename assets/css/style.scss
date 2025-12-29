@@ -48,6 +48,10 @@ a.site-title {
   color: #333333;
 }
 
-.site-title a:hover, a:focus {
+.site-title a:hover, .site-title a:focus {
   color:#069;
+}
+
+.left-pane-title {
+  margin-bottom: 10px;
 }
