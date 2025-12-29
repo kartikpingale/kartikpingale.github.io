@@ -3,7 +3,38 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #f7f9f8;
+  color: #333333;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+}
+
 .wrapper {
   width:960px;
   margin:0 auto;
+}
+
+header {
+  width:320px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:640px;
+  float:right;
+  padding-bottom:50px;
+}
+
+footer {
+  width:320px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
