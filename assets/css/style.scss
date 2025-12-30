@@ -24,20 +24,20 @@ img {
 }
 
 header {
-  width:400px;
+  width:360px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-  width:800px;
+  width:840px;
   float:right;
   padding-bottom:10px;
 }
 
 footer {
-  width:400px;
+  width:360px;
   float:left;
   position:fixed;
   bottom:10px;
@@ -80,11 +80,11 @@ footer {
     margin:0 0 20px;
   }
 
-  header a small {
+  /* header a small {
     display:inline;
   }
 
-  /* header ul {
+  header ul {
     position:absolute;
     right:50px;
     top:52px;
@@ -101,7 +101,7 @@ footer {
   }
 
   header ul, header p.view {
-    position:static;
+    position:fixed;
   }
 
   pre, code {
