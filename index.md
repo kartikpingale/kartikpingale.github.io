@@ -1,11 +1,12 @@
 # About Me
 
 I love working on problems that require structured thinking, quantitative analysis, and clear communication, whether that’s valuing companies, analyzing markets, building models, or turning complex data into actionable insights. With a background spanning finance and engineering, I’m drawn to roles where analytical depth and intellectual curiosity matter.  
-*I'm currently looking for full-time analyst roles in my areas of interest: Capital Markets, Equity / Credit / Quant Research, and Asset / Portfolio Management.* 
 
-#### Technical Skills: Qualitative Research, Financial Analysis, Valuations, Capital Markets, Portfolio & Risk Management, Derivatives, Real Estate
-#### Tools and Technologies: Bloomberg Terminal, Capital IQ, FactSet, Advanced Excel, Python, SQL, Data Visualization, PitchBook, Mergermarket, Dealogic
-#### Soft Skills: Problem Solving, Critical Thinking, Attention to Detail, Time Management, Collaboration, Clear & Concise Communication
+#### I'm currently looking for full-time analyst roles in my areas of interest: Capital Markets, Equity / Credit / Quant Research, and Asset / Portfolio Management
+
+<b>- Technical Skills: </b> Qualitative Research, Financial Analysis, Valuations, Capital Markets, Portfolio & Risk Management, Derivatives, Real Estate  
+<b>- Tools and Technologies: </b> Bloomberg Terminal, Capital IQ, FactSet, Advanced Excel, Python, SQL, Data Visualization, PitchBook, Mergermarket, Dealogic  
+<b>- Soft Skills: </b> Problem Solving, Critical Thinking, Attention to Detail, Time Management, Collaboration, Clear & Concise Communication
 
 <hr>
 
@@ -53,7 +54,7 @@ I also volunteer with 2 organizations working towards improving access to educat
 
 <hr>
 
-## Random
+## Miscellaneous
 
 [Link](https://kartikonnifty.blogspot.com/) to my old blog where I posted commentary on trading the Nifty 50 index
 
