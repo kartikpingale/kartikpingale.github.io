@@ -1,16 +1,17 @@
 # About Me
 
-I love working on problems that require structured thinking, quantitative analysis, and clear communication — whether that’s valuing companies, analyzing markets, building models, or turning complex data into actionable insights. With a background spanning finance, engineering, and research, I’m drawn to roles where analytical depth and intellectual curiosity matter.
+I love working on problems that require structured thinking, quantitative analysis, and clear communication, whether that’s valuing companies, analyzing markets, building models, or turning complex data into actionable insights. With a background spanning finance and engineering, I’m drawn to roles where analytical depth and intellectual curiosity matter.  
+*I'm currently looking for full-time analyst roles in my areas of interest: Capital Markets, Equity / Credit / Quant Research, and Asset / Portfolio Management.* 
 
-#### Technical Skills: Financial Research and Analysis, Valuations, Capital Markets, Portfolio & Risk Management, Derivatives
-#### Tools and Technologies: Bloomberg Terminal, Capital IQ, FactSet, PitchBook, Dealogic, Python, SQL, Data Visualization
-#### Soft Skills: Critical Thinking, Attention to Detail, Time Management, Collaboration, Clear & Concise Communication
+#### Technical Skills: Qualitative Research, Financial Analysis, Valuations, Capital Markets, Portfolio & Risk Management, Derivatives, Real Estate
+#### Tools and Technologies: Bloomberg Terminal, Capital IQ, FactSet, Advanced Excel, Python, SQL, Data Visualization, PitchBook, Mergermarket, Dealogic
+#### Soft Skills: Problem Solving, Critical Thinking, Attention to Detail, Time Management, Collaboration, Clear & Concise Communication
 
 <hr>
 
 ## Education	
 
-- M.S., Finance (STEM)	@ University of Rochester (2025 - 2026)  
+- M.S., Finance (STEM)	@ Simon Business School, University of Rochester (2025 - 2026)  
   _GPA: 4.0/4.0 | Concentration in Investment Management and Financial Analysis | Dean's List | Activities: Simon School Venture Fund_
 
 - CFA Level II Candidate (May 2026)  
@@ -41,3 +42,25 @@ I love working on problems that require structured thinking, quantitative analys
 - Promoted to the Senior Analyst role for exceptional performance, 9 months ahead of tenure completion
 - Collaborated with client's Private Equity and Capital Markets divisions in 15+ transactions
 - Work mix included macroeconomic research, industry landscaping, company profiling, competitive benchmarking, financial modeling, and valuations
+
+<hr>
+
+## Additional Information
+
+I love travelling, aviation and audio-form content. Other interests include trivia, reading, swimming, cycling, et al.
+
+I also volunteer with 2 organizations working towards improving access to education.
+
+<hr>
+
+## Random
+
+[Link](https://kartikonnifty.blogspot.com/) to my old blog where I posted commentary on trading the Nifty 50 index
+
+Three of my most favorite websites on the internet: [1](https://www.nasa.gov/multimedia/) [2](https://en.wikipedia.org/wiki/Main_Page) [3](https://education.nationalgeographic.org/)
+
+<hr>
+
+## Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/kartikpingale/) | [Email](mailto:kpingale@Simon.rochester.edu) | Rochester, NY
