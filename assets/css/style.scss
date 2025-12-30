@@ -10,11 +10,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333333;
+  color: #393939;
 }
 
 .wrapper {
-  width:960px;
+  width:1200px;
   margin:0 auto;
 }
 
@@ -24,20 +24,20 @@ img {
 }
 
 header {
-  width:320px;
+  width:400px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-  width:640px;
+  width:800px;
   float:right;
   padding-bottom:10px;
 }
 
 footer {
-  width:320px;
+  width:400px;
   float:left;
   position:fixed;
   bottom:10px;
@@ -45,7 +45,7 @@ footer {
 }
 
 .site-title {
-  color: #333333;
+  color: #393939;
 }
 
 .site-title a:hover, .site-title a:focus {
@@ -84,11 +84,11 @@ footer {
     display:inline;
   }
 
-  header ul {
+  /* header ul {
     position:absolute;
     right:50px;
     top:52px;
-  }
+  } */
 }
 
 @media print, screen and (max-width: 720px) {
