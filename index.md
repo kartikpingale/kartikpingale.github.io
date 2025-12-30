@@ -11,7 +11,7 @@ I love working on problems that require structured thinking, quantitative analys
 ## Education	
 
 - M.S., Finance (STEM)	@ University of Rochester (2025 - 2026)  
-  _GPA: 4.0/4.0 | Concentration in Investment Management and Financial Analysis | Dean's List | Activities: Simon Student Venture Fund_
+  _GPA: 4.0/4.0 | Concentration in Investment Management and Financial Analysis | Dean's List | Activities: Simon School Venture Fund_
 
 - CFA Level II Candidate (May 2026)  
 
@@ -22,7 +22,7 @@ I love working on problems that require structured thinking, quantitative analys
 
 ## Professional Experience
 
-#### Associate, Portfolio Management @ Simon Student Venture Fund (_October 2025 - Present_)
+#### Associate, Portfolio Management @ Simon School Venture Fund (_October 2025 - Present_)
 - Overseeing portfolio strategy and execution and ensuring financial alignment with fund objectives
 - Driving post-investment monitoring and founder engagement to support growth and value creation initiatives
 - Presenting portfolio performance updates to the Board and Investment Committee; leading a team of 3 analysts
@@ -38,6 +38,6 @@ I love working on problems that require structured thinking, quantitative analys
 - Led management of deliverables from ideation to review, contributing to an increase in contracted FTEs from 2 to 3
 
 #### Analyst, Research and Investment Services @ TresVista (_March 2022 - June 2023_)
-- Fast-tracked to the Senior Analyst role for exceptional performance, earning promotion 9 months ahead of completing tenure as an Analyst
-- Collaborated with client's Private Equity and Capital Markets divisions in 15+ transactions, delivering consistent high-quality and actionable insights
+- Promoted to the Senior Analyst role for exceptional performance, 9 months ahead of tenure completion
+- Collaborated with client's Private Equity and Capital Markets divisions in 15+ transactions
 - Work mix included macroeconomic research, industry landscaping, company profiling, competitive benchmarking, financial modeling, and valuations
